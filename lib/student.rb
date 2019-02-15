@@ -25,5 +25,5 @@ def self.drop_table
     SQL
 end
 
-  
+
 end
